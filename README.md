@@ -18,12 +18,6 @@ A modern, fully responsive **Alarm Clock Web App** built using **HTML, CSS, and 
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after uploading images to GitHub)*
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure
