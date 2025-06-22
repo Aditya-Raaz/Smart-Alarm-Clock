@@ -33,17 +33,20 @@ A modern, fully responsive **Alarm Clock Web App** built using **HTML, CSS, and 
 
 Smart-Alarm-Clock/
 │
-├── index.html # Main page layout
-├── style.css # Styling and responsiveness
-├── script.js # Alarm functionality & event logic
-├── ringtones/
-│ └── alexa ringtone.mp3 # Alarm sound file (Add this)
-├── images/
-│ ├── Desktop Pc Dark.jpg # Dark theme background
-│ ├── Desktop Pc Light.jpg # Light theme background
-│ ├── Mobile Dark.jpg # Mobile dark background
-│ └── Mobile Light.jpg # Mobile light background
-└── README.md # Project documentation
+├── index.html               # Main HTML file – structure of the app
+├── style.css                # CSS file – styling, themes, animations
+├── script.js                # JavaScript file – clock, alarm, logic
+│
+├── ringtones/               # Folder for alarm sound
+│   └── alexa ringtone.mp3   # Alarm audio (add your .mp3 here)
+│
+├── images/                  # Folder for background/theme images
+│   ├── Desktop Pc Dark.jpg      # Dark mode desktop background
+│   ├── Desktop Pc Light.jpg     # Light mode desktop background
+│   ├── Mobile Dark.jpg          # Dark mode mobile background
+│   └── Mobile Light.jpg         # Light mode mobile background
+│
+└── README.md                # Project documentation for GitHub
 
 
 ---
